@@ -1,0 +1,7 @@
+.terraform
+backend.tf
+.codebuddy
+.idea
+*.swp
+terraform.plan
+terraform.tfstate
